@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7c170b005c84ccd7a547",
+    "revision": "80486206073f96d510b1",
     "url": "/Addition_WordProblems/static/css/main.b97e0c3d.chunk.css"
   },
   {
-    "revision": "7c170b005c84ccd7a547",
-    "url": "/Addition_WordProblems/static/js/main.ca820ce6.chunk.js"
+    "revision": "80486206073f96d510b1",
+    "url": "/Addition_WordProblems/static/js/main.0de62efc.chunk.js"
   },
   {
     "revision": "08d901e22a9e875fb33a",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/background2.b512cd28.gif"
   },
   {
-    "revision": "3a7a15436c248cfe18bd787f4588755d",
+    "revision": "634e4c9e645cba6472035a9ae6177c05",
     "url": "/Addition_WordProblems/index.html"
   }
 ];
