@@ -1,15 +1,15 @@
 {
   "main.css": "/Addition_WordProblems/static/css/main.4e77dbd3.chunk.css",
-  "main.js": "/Addition_WordProblems/static/js/main.b94ffe06.chunk.js",
-  "main.js.map": "/Addition_WordProblems/static/js/main.b94ffe06.chunk.js.map",
-  "runtime~main.js": "/Addition_WordProblems/static/js/runtime~main.d77933f9.js",
-  "runtime~main.js.map": "/Addition_WordProblems/static/js/runtime~main.d77933f9.js.map",
-  "static/js/2.11635928.chunk.js": "/Addition_WordProblems/static/js/2.11635928.chunk.js",
-  "static/js/2.11635928.chunk.js.map": "/Addition_WordProblems/static/js/2.11635928.chunk.js.map",
-  "static/js/3.6ab0cb74.chunk.js": "/Addition_WordProblems/static/js/3.6ab0cb74.chunk.js",
-  "static/js/3.6ab0cb74.chunk.js.map": "/Addition_WordProblems/static/js/3.6ab0cb74.chunk.js.map",
+  "main.js": "/Addition_WordProblems/static/js/main.62fae889.chunk.js",
+  "main.js.map": "/Addition_WordProblems/static/js/main.62fae889.chunk.js.map",
+  "runtime~main.js": "/Addition_WordProblems/static/js/runtime~main.c69244ee.js",
+  "runtime~main.js.map": "/Addition_WordProblems/static/js/runtime~main.c69244ee.js.map",
+  "static/js/2.6fd53fe1.chunk.js": "/Addition_WordProblems/static/js/2.6fd53fe1.chunk.js",
+  "static/js/2.6fd53fe1.chunk.js.map": "/Addition_WordProblems/static/js/2.6fd53fe1.chunk.js.map",
+  "static/js/3.8db024d5.chunk.js": "/Addition_WordProblems/static/js/3.8db024d5.chunk.js",
+  "static/js/3.8db024d5.chunk.js.map": "/Addition_WordProblems/static/js/3.8db024d5.chunk.js.map",
   "index.html": "/Addition_WordProblems/index.html",
-  "precache-manifest.914d9c807f5fd0d6677d7a09dfc0f426.js": "/Addition_WordProblems/precache-manifest.914d9c807f5fd0d6677d7a09dfc0f426.js",
+  "precache-manifest.fcb1c77bd671a21651a16814f2b3830a.js": "/Addition_WordProblems/precache-manifest.fcb1c77bd671a21651a16814f2b3830a.js",
   "service-worker.js": "/Addition_WordProblems/service-worker.js",
   "static/css/main.4e77dbd3.chunk.css.map": "/Addition_WordProblems/static/css/main.4e77dbd3.chunk.css.map",
   "static/media/_1.mp3": "/Addition_WordProblems/static/media/_1.40d8e09c.mp3",
@@ -26,5 +26,6 @@
   "static/media/background2.gif": "/Addition_WordProblems/static/media/background2.b512cd28.gif",
   "static/media/grapes.png": "/Addition_WordProblems/static/media/grapes.e036ffe4.png",
   "static/media/paperBag.png": "/Addition_WordProblems/static/media/paperBag.18c8ae84.png",
-  "static/media/removeItem.mp3": "/Addition_WordProblems/static/media/removeItem.91412d06.mp3"
+  "static/media/removeItem.mp3": "/Addition_WordProblems/static/media/removeItem.91412d06.mp3",
+  "static/media/typing.mp3": "/Addition_WordProblems/static/media/typing.a0cc197d.mp3"
 }

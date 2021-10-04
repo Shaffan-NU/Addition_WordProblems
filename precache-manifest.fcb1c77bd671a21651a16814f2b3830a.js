@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "2eaaebfde314edf144fc",
+    "revision": "8bd3c951289372825863",
     "url": "/Addition_WordProblems/static/css/main.4e77dbd3.chunk.css"
   },
   {
-    "revision": "2eaaebfde314edf144fc",
-    "url": "/Addition_WordProblems/static/js/main.b94ffe06.chunk.js"
+    "revision": "8bd3c951289372825863",
+    "url": "/Addition_WordProblems/static/js/main.62fae889.chunk.js"
   },
   {
-    "revision": "08d901e22a9e875fb33a",
-    "url": "/Addition_WordProblems/static/js/runtime~main.d77933f9.js"
+    "revision": "b88d89fec41be54e1fb2",
+    "url": "/Addition_WordProblems/static/js/runtime~main.c69244ee.js"
   },
   {
-    "revision": "bb417c14a662d7c5ae2f",
-    "url": "/Addition_WordProblems/static/js/2.11635928.chunk.js"
+    "revision": "c8c3504942672a5364c2",
+    "url": "/Addition_WordProblems/static/js/2.6fd53fe1.chunk.js"
   },
   {
-    "revision": "288383014bea5f3b3885",
-    "url": "/Addition_WordProblems/static/js/3.6ab0cb74.chunk.js"
-  },
-  {
-    "revision": "18c8ae84a367ae39c7dc07370d5e133e",
-    "url": "/Addition_WordProblems/static/media/paperBag.18c8ae84.png"
+    "revision": "1dff2987f75cba045984",
+    "url": "/Addition_WordProblems/static/js/3.8db024d5.chunk.js"
   },
   {
     "revision": "e036ffe49c3290b294f2edb25b336a5d",
     "url": "/Addition_WordProblems/static/media/grapes.e036ffe4.png"
+  },
+  {
+    "revision": "18c8ae84a367ae39c7dc07370d5e133e",
+    "url": "/Addition_WordProblems/static/media/paperBag.18c8ae84.png"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -72,6 +72,10 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/removeItem.91412d06.mp3"
   },
   {
+    "revision": "a0cc197d7b1c5ac20f1a5b0a60cc45ac",
+    "url": "/Addition_WordProblems/static/media/typing.a0cc197d.mp3"
+  },
+  {
     "revision": "f5f258693cd37ccdf82ff06568ee9082",
     "url": "/Addition_WordProblems/static/media/background.f5f25869.gif"
   },
@@ -80,7 +84,7 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/background2.b512cd28.gif"
   },
   {
-    "revision": "1907a7eddfbd5c0377faef7d21cb1fbf",
+    "revision": "6d1b001df00bee59af32093753d3db5a",
     "url": "/Addition_WordProblems/index.html"
   }
 ];
