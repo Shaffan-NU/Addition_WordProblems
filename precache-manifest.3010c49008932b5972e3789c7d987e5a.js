@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0a26e7c3f2d271c92506",
+    "revision": "7c170b005c84ccd7a547",
     "url": "/Addition_WordProblems/static/css/main.b97e0c3d.chunk.css"
   },
   {
-    "revision": "0a26e7c3f2d271c92506",
-    "url": "/Addition_WordProblems/static/js/main.01d16209.chunk.js"
+    "revision": "7c170b005c84ccd7a547",
+    "url": "/Addition_WordProblems/static/js/main.ca820ce6.chunk.js"
   },
   {
     "revision": "08d901e22a9e875fb33a",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/js/3.6ab0cb74.chunk.js"
   },
   {
-    "revision": "cabc22c6e80bc043c10b098b6b8854bb",
-    "url": "/Addition_WordProblems/static/media/bowl.cabc22c6.png"
+    "revision": "18c8ae84a367ae39c7dc07370d5e133e",
+    "url": "/Addition_WordProblems/static/media/paperBag.18c8ae84.png"
   },
   {
-    "revision": "74562e5d9b36cc740a89848ba488bf7d",
-    "url": "/Addition_WordProblems/static/media/rooster.74562e5d.png"
+    "revision": "e036ffe49c3290b294f2edb25b336a5d",
+    "url": "/Addition_WordProblems/static/media/grapes.e036ffe4.png"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/background2.b512cd28.gif"
   },
   {
-    "revision": "809774698eec4daf74e692fde3a563b3",
+    "revision": "3a7a15436c248cfe18bd787f4588755d",
     "url": "/Addition_WordProblems/index.html"
   }
 ];
