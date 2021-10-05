@@ -1,27 +1,43 @@
 self.__precacheManifest = [
   {
-    "revision": "f99bcbf8560f6fe127f7",
+    "revision": "ecae8c564dc8442dc21b",
     "url": "/Addition_WordProblems/static/css/main.4e77dbd3.chunk.css"
   },
   {
-    "revision": "f99bcbf8560f6fe127f7",
-    "url": "/Addition_WordProblems/static/js/main.20daff5b.chunk.js"
+    "revision": "ecae8c564dc8442dc21b",
+    "url": "/Addition_WordProblems/static/js/main.406566cc.chunk.js"
   },
   {
-    "revision": "0ddf2a69e64e964307f1",
-    "url": "/Addition_WordProblems/static/js/runtime~main.f305164e.js"
+    "revision": "2e596a533fedef60c46f",
+    "url": "/Addition_WordProblems/static/js/runtime~main.7808833d.js"
   },
   {
-    "revision": "1040711c2d0bd7a5b609",
-    "url": "/Addition_WordProblems/static/js/2.a8aa762c.chunk.js"
+    "revision": "5f1012d84a9205906431",
+    "url": "/Addition_WordProblems/static/js/2.deedcbd5.chunk.js"
   },
   {
-    "revision": "52cdb82a85b40b0b4bc0",
-    "url": "/Addition_WordProblems/static/js/3.48f47dc1.chunk.js"
+    "revision": "f8c0c23fae42b97db794",
+    "url": "/Addition_WordProblems/static/js/3.edfe2eba.chunk.js"
   },
   {
-    "revision": "d625354e0fe3750134af83e0e4faefd4",
-    "url": "/Addition_WordProblems/static/media/apple.d625354e.png"
+    "revision": "7360a269fa89ec8922a9fb9354820523",
+    "url": "/Addition_WordProblems/static/media/sound.7360a269.png"
+  },
+  {
+    "revision": "821cde131dca119a05d6f45ed5115aad",
+    "url": "/Addition_WordProblems/static/media/grocery.821cde13.gif"
+  },
+  {
+    "revision": "a0d6b13874a29393b0f8252f2adb5fa7",
+    "url": "/Addition_WordProblems/static/media/grocerySound.a0d6b138.mp3"
+  },
+  {
+    "revision": "f02ac89a44b28acd80cb6b0399adbf8f",
+    "url": "/Addition_WordProblems/static/media/mute.f02ac89a.png"
+  },
+  {
+    "revision": "6d3e6e31968de6abd43c75375d97964a",
+    "url": "/Addition_WordProblems/static/media/ca.6d3e6e31.mp3"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -72,6 +88,10 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/typing.a0cc197d.mp3"
   },
   {
+    "revision": "d625354e0fe3750134af83e0e4faefd4",
+    "url": "/Addition_WordProblems/static/media/apple.d625354e.png"
+  },
+  {
     "revision": "411c4e6a0a9e83696dc8f57a70f342c0",
     "url": "/Addition_WordProblems/static/media/banana.411c4e6a.png"
   },
@@ -88,8 +108,8 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/pear.da95b1d7.png"
   },
   {
-    "revision": "bd9854ce5bedf22ae52623b1dc3b42a1",
-    "url": "/Addition_WordProblems/static/media/pineapple.bd9854ce.png"
+    "revision": "73fe00995cd7adebd696e8d1715500dc",
+    "url": "/Addition_WordProblems/static/media/pineapple.73fe0099.png"
   },
   {
     "revision": "5690694919b062e5d201f2895ca093b7",
@@ -124,12 +144,8 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/peach.baee8b37.png"
   },
   {
-    "revision": "f5f258693cd37ccdf82ff06568ee9082",
-    "url": "/Addition_WordProblems/static/media/background.f5f25869.gif"
-  },
-  {
-    "revision": "b512cd285a5ca16e6e3ec0c535047a76",
-    "url": "/Addition_WordProblems/static/media/background2.b512cd28.gif"
+    "revision": "8506c659726847019116c0159642b02c",
+    "url": "/Addition_WordProblems/static/media/dragon_fruit.8506c659.png"
   },
   {
     "revision": "18c8ae84a367ae39c7dc07370d5e133e",
@@ -140,7 +156,15 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/grapes.e036ffe4.png"
   },
   {
-    "revision": "7ba022f582ec9a1a9496549f26bdc90c",
+    "revision": "f5f258693cd37ccdf82ff06568ee9082",
+    "url": "/Addition_WordProblems/static/media/background.f5f25869.gif"
+  },
+  {
+    "revision": "b512cd285a5ca16e6e3ec0c535047a76",
+    "url": "/Addition_WordProblems/static/media/background2.b512cd28.gif"
+  },
+  {
+    "revision": "63083ef5a8407df3a3f14ebce3528c97",
     "url": "/Addition_WordProblems/index.html"
   }
 ];
