@@ -1,23 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "674808bdcfcfcc1892fb",
-    "url": "/Addition_WordProblems/static/css/main.4e77dbd3.chunk.css"
+    "revision": "1ddfa88219e30af85449",
+    "url": "/Addition_WordProblems/static/css/main.474b01b4.chunk.css"
   },
   {
-    "revision": "674808bdcfcfcc1892fb",
-    "url": "/Addition_WordProblems/static/js/main.c1ddd182.chunk.js"
+    "revision": "1ddfa88219e30af85449",
+    "url": "/Addition_WordProblems/static/js/main.cefe7c85.chunk.js"
   },
   {
-    "revision": "2e596a533fedef60c46f",
-    "url": "/Addition_WordProblems/static/js/runtime~main.7808833d.js"
+    "revision": "92bc15d73b747023392a",
+    "url": "/Addition_WordProblems/static/js/runtime~main.90c927af.js"
   },
   {
-    "revision": "e5a4824762bbd20a1461",
-    "url": "/Addition_WordProblems/static/js/2.159bd886.chunk.js"
+    "revision": "aaf0c220cffa282d43c3",
+    "url": "/Addition_WordProblems/static/js/2.a3b89d32.chunk.js"
   },
   {
-    "revision": "f8c0c23fae42b97db794",
-    "url": "/Addition_WordProblems/static/js/3.edfe2eba.chunk.js"
+    "revision": "f0aa0efad6746287de4c",
+    "url": "/Addition_WordProblems/static/js/3.d25448f0.chunk.js"
+  },
+  {
+    "revision": "6fc126f248e4b520c28a6229ca641bc0",
+    "url": "/Addition_WordProblems/static/media/mango.6fc126f2.png"
+  },
+  {
+    "revision": "91412d063f2fde22edf3a015fa63a786",
+    "url": "/Addition_WordProblems/static/media/removeItem.91412d06.mp3"
   },
   {
     "revision": "821cde131dca119a05d6f45ed5115aad",
@@ -28,8 +36,20 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/sound.7360a269.png"
   },
   {
-    "revision": "6d3e6e31968de6abd43c75375d97964a",
-    "url": "/Addition_WordProblems/static/media/ca.6d3e6e31.mp3"
+    "revision": "424d18986561c7039221eb97a66aef6b",
+    "url": "/Addition_WordProblems/static/media/tostartpressbutton.424d1898.mp3"
+  },
+  {
+    "revision": "8efff185f64e4259ae68a4074dbfb0e6",
+    "url": "/Addition_WordProblems/static/media/321go.8efff185.mp3"
+  },
+  {
+    "revision": "09b0b7bb4e8aad40481825ec9d91d223",
+    "url": "/Addition_WordProblems/static/media/rightAnswer.09b0b7bb.mp3"
+  },
+  {
+    "revision": "ddcbc59b2917e3dbeb737fca1e3ede4e",
+    "url": "/Addition_WordProblems/static/media/wrongAnswer.ddcbc59b.mp3"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -72,8 +92,8 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/_10.594c0b0e.mp3"
   },
   {
-    "revision": "91412d063f2fde22edf3a015fa63a786",
-    "url": "/Addition_WordProblems/static/media/removeItem.91412d06.mp3"
+    "revision": "2fd9ac2208c833754484473decfc84a1",
+    "url": "/Addition_WordProblems/static/media/drop.2fd9ac22.wav"
   },
   {
     "revision": "a0cc197d7b1c5ac20f1a5b0a60cc45ac",
@@ -86,10 +106,6 @@ self.__precacheManifest = [
   {
     "revision": "411c4e6a0a9e83696dc8f57a70f342c0",
     "url": "/Addition_WordProblems/static/media/banana.411c4e6a.png"
-  },
-  {
-    "revision": "6fc126f248e4b520c28a6229ca641bc0",
-    "url": "/Addition_WordProblems/static/media/mango.6fc126f2.png"
   },
   {
     "revision": "091d77928921a2ccefc1456f02198651",
@@ -164,7 +180,7 @@ self.__precacheManifest = [
     "url": "/Addition_WordProblems/static/media/background2.b512cd28.gif"
   },
   {
-    "revision": "89486008b057dc9626bb6c36ec223aee",
+    "revision": "25760aeef245fa7834913b4824872761",
     "url": "/Addition_WordProblems/index.html"
   }
 ];
